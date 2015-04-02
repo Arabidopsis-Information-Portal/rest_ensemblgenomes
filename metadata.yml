@@ -1,0 +1,7 @@
+name: rest_ensemblgenomes
+version: 0.1
+description: EBI EnsemblGenomes REST Endpoint
+type: passthrough
+url: http://rest.ensemblgenomes.org
+whitelist:
+  - rest.ensemblgenomes.org
